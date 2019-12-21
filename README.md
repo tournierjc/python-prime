@@ -6,7 +6,7 @@ Créer les fichiers de configuration X.Org pour basculer entre NVIDIA Prime et N
 
 ## Installation
 Copier les fichiers dans les répertoires correspondants.
-- `nvidia-prime` et nvidia-offload` dans `/usr/bin/`
+- `nvidia-prime` et `nvidia-offload` dans `/usr/bin/`
 - `nvidia-prime.py`n nvidia-offload.py` et prime_switch.py` dans `/usr/share/prime-switch/`
 
 S'assurer que le fichier de configuration dans `/etc/X11/xorg.conf.d/` s'appelle `10-nvidia-offload.conf` ou `10-nvidia-prime.conf`.
