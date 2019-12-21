@@ -20,5 +20,5 @@ Pour basculer entre les deux modes (attention cette manipulation va rédémarrer
 sudo nvidia-prime
 ```
 ```
-sudo nvidia-offiload
+sudo nvidia-offload
 ```
